@@ -1,0 +1,11 @@
+header {
+  border: 2px solid yellow;
+  width: 100vh;
+}
+
+.header-list {
+  list-style-type: none;
+  display: flex;
+  border: 2px solid green;
+  justify-content: space-between;
+}
